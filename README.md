@@ -1,4 +1,4 @@
-Este é o repositório do Projeto de Paciente, um sistema de gerenciamento de informações de pacientes desenvolvido pela equipe XYZ. O objetivo principal deste projeto é fornecer uma plataforma simples para armazenar e acessar os dados dos pacientes. feito pela dupla Matheus Melo e Jorge Fragoso.
+Este é o repositório do Projeto de Paciente, um sistema de gerenciamento de informações de pacientes. O objetivo principal deste projeto é fornecer uma plataforma simples para armazenar e acessar os dados dos pacientes. feito pela dupla Matheus Melo e Jorge Fragoso.
 
 Funcionalidades
 Registro de Pacientes: O sistema permite o registro de novos pacientes, capturando informações importantes, como nome, idade, sexo, histórico médico e detalhes de contato.
