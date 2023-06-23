@@ -5,3 +5,5 @@ Registro de Pacientes: O sistema permite o registro de novos pacientes, capturan
 Histórico Médico: O sistema mantém um registro do histórico médico de cada paciente, incluindo diagnósticos, prescrições e tratamentos anteriores.
 
 Para executar, basta ir no arquivo aplicaçao e rodar ele, logo vai mostar as opçoes para o medico. 
+
+https://youtu.be/wWQbw44ZNGc
